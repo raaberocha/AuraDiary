@@ -1,0 +1,83 @@
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .0,1em;
+    top: 15%;
+	background: linear-gradient(to right, rgb(251, 249, 249), rgb(205, 208, 208)); /* Standard syntax */
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h2{
+    font: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+    top: 15%;
+
+
+}
+
+h3 {
+	font: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+span {
+    height: 300px;
+    width: 300px;
+    background: linear-gradient(to right, red , yellow);
+    border-radius: 50%;
+    display: inline-block;
+
+
+}
+.datetime {
+    font-size: 20px;
+    font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    top: 15%;
+}
+
+.color1{
+  width: 60px;
+  height: 30px;
+  margin-left: 16px;
+  border-radius: 10%;
+  border: none;
+  color: white;
+  background: white;
+  cursor: pointer;
+
+}
+
+.color2{
+  width: 60px;
+  height: 30px;
+  margin-left: 16px;
+  border-radius: 10%;
+  border: none;
+  color: white;
+  background: white;
+  cursor: pointer;
+
+}
+
